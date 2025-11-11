@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Настройка D-Link Router",
+        "description": "Введите параметры подключения к маршрутизатору",
+        "data": {
+          "host": "IP адрес",
+          "username": "Имя пользователя",
+          "password": "Пароль",
+          "ssh_port": "SSH порт"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Не удалось подключиться к маршрутизатору",
+      "unknown": "Неизвестная ошибка"
+    },
+    "abort": {
+      "already_configured": "Это устройство уже настроено"
+    }
+  }
+}

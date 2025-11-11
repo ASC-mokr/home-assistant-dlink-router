@@ -1,0 +1,8 @@
+{
+  "name": "D-Link Router",
+  "homeassistant": "2024.1.0",
+  "documentation": "https://github.com/ASC-mokr/home-assistant-dlink-router",
+  "issues": "https://github.com/ASC-mokr/home-assistant-dlink-router/issues",
+  "new_issue": "https://github.com/ASC-mokr/home-assistant-dlink-router/issues/new",
+  "category": "integration"
+}

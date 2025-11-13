@@ -15,13 +15,6 @@ Home Assistant custom integration for managing D-Link DIR-825 router.
 
 ## Installation
 
-### Via HACS
-
-1. Open Home Assistant
-2. Go to **Settings → Devices & Services → Create Automation**
-3. Search for **"D-Link Router"**
-4. Install
-
 ### Manual
 
 1. Copy `dlink_router` folder to `~/.homeassistant/custom_components/`
